@@ -1,0 +1,7 @@
+cat > .gitignore << EOF
+google-cloud-sdk/
+__pycache__/
+*.pyc
+.env
+*.tar.gz
+EOF
